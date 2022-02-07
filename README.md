@@ -9,3 +9,4 @@
 | 2022-02-02 |  :heavy_check_mark: **PyTorch 스터디** 두 번째 발표 정리 <br/> :heavy_check_mark: Conv2D TransConv2D 공부함 |
 | 2022-02-04 |  :heavy_check_mark: **PyTorch 스터디 발표 준비** <br/> :heavy_check_mark: 수강신청 완료, 클라썸 질문  |
 | 2022-02-06 |  :heavy_check_mark: IT 서비스 기획 주제 선정하기 <br/>  :heavy_check_mark:  코드코치 회의, 커리큘럼 PPT 가이드 마무리하기 |
+| 2022-02-07 |  ✔️ 한동대-포스텍 인공지능 워크샵 <br/>  ✔️ 챔가대 기도회  <br/> ✔️ 카카오 모빌리티 강의 신청 <br/> ✔️ IT 기획 서비스 첫 모임 <br/> ✔️ 10일 발표 마무리 스크립트 작성하기 |
