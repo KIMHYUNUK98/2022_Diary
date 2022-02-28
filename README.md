@@ -17,3 +17,4 @@
 | 2022-02-14 |  ✔️ SSD 논문 발표 준비 <br/>  ✔️  IT 기획 서비스 IA 구현 및 기능 구현 준비 |
 | 2022-02-15 |  ✔️ 자율주행 랩 미팅 1시 <br/>  ✔️ 자율주행 모델 변환 인수인계 <br/>  ✔️ IT 서비스 기획 기능 셋 작성하기 <br/> ✔️  IT 서비스 기획 발표하기|
 | 2022-02-18 |  ✔️ IT 기획 서비스 최종 제출 <br/> ✔️ FCHarDNet 오류 해결 중|
+| 2022-02-28 |  ✔️ 수업 전에 FCHarDNet segmentation, Blitznet multi-tasking object detection, semantic segmentation 진행|
